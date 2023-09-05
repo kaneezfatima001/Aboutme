@@ -1,10 +1,8 @@
-📊 Experienced Mathematician | Data Analyst | Financial Analyst | Business Intelligence Specialist
+🧮 Statistical Analysis | Machine Learning | Risk Assessment | Financial Modeling | Data-Driven Insights
 
 🎓 Pursuing MPhil in Mathematics with a Focus on Business and Financial Analytics
 
 📈 Python | R | Excel | SQL | MATLAB | Power BI | QlikView | Tableau
-
-🧮 Statistical Analysis | Machine Learning | Risk Assessment | Financial Modeling | Data-Driven Insights
 
 📊 About Me:
 
